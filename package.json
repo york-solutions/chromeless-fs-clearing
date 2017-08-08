@@ -1,0 +1,19 @@
+{
+  "name": "chromeless-fs-clearing",
+  "version": "1.0.0",
+  "description": "Debug a weird bug with chromeless where the page contents are being cleared",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/york-solutions/chromeless-fs-clearing.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/york-solutions/chromeless-fs-clearing/issues"
+  },
+  "homepage": "https://github.com/york-solutions/chromeless-fs-clearing#readme",
+  "dependencies": {
+    "chromeless": "^1.2.0"
+  }
+}
